@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'thin'
 gem 'capistrano'
+gem 'capistrano-thin'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.1'
